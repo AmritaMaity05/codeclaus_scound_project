@@ -1,2 +1,2 @@
-# codeclaus_scound_project
+# codeclaus_second_project
 This is my scound project
